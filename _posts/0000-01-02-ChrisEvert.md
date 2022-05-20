@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Hunka text
+Large slab of text
 Hubba hubba zoot zoot
